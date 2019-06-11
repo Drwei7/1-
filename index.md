@@ -1,12 +1,6 @@
-海风漂流drwei个人站
+海风漂流Drwei个人站
 
-You can use the [editor on GitHub](https://github.com/Drwei7/1-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Drwei的闪念堆积处
 
 ```markdown
 Syntax highlighted code block
